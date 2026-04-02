@@ -1,17 +1,22 @@
 # Sales Data Analysis using SQL
 
 ## Objective
-To analyze sales data and understand category and regional performance.
+To analyze structured sales data and extract insights related to category performance, regional distribution, and product-level revenue.
 
 ## Tools Used
-- SQL
+- SQL (Basic Queries)
+- Online SQL Editor
 
-## What I Did
-- Used GROUP BY to analyze category-wise sales
-- Applied SUM to calculate total sales
-- Used ORDER BY to find top-performing products
+## Key Concepts
+- Filtering (WHERE)
+- Grouping (GROUP BY)
+- Aggregation (SUM)
+- Sorting (ORDER BY)
 
 ## Key Insights
-- Technology category had highest sales
-- East and North regions performed better
-- Few products contributed most revenue
+- Technology category generated the highest revenue
+- East and North regions showed stronger sales performance
+- A few products contributed significantly to total revenue
+
+## Project Files
+- SQL queries and outputs are included in the project document
