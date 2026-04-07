@@ -1,3 +1,5 @@
+This project demonstrates basic SQL skills for analyzing structured sales data using aggregation and grouping techniques.
+
 # Sales Data Analysis using SQL
 
 ## Objective
@@ -20,4 +22,5 @@ To analyze structured sales data and extract insights related to category perfor
 - Compared category performance using both total sales and number of records
 
 ## Project Files
-- SQL queries and outputs are included in the project document
+- SQL queries are provided in the repository (.sql file)
+- Project explanation and outputs are included in the project document
